@@ -22,12 +22,7 @@ Bits and pieces is a proposed international shorthand  standard to identify key 
 
 ## Examples
 
-McDonald's uses a
-
-
-Beef Hamburger Patty
-
-American Cheese, Sesame Bun, Ketchup, Pickles, Onions, Mustard
+In the quarter poudner with cheese, McDonald's uses a Beef Hamburger Patty, American Cheese, Sesame Bun, Ketchup, Pickles, Onions, Mustard
 
 
 Using the standard, the following string would result
