@@ -32,7 +32,8 @@ Using the standard, the following string would result
 
 
 
-````B/ - indicates Beef as a main ingredient
+````
+B/ - indicates Beef as a main ingredient
 Br-S indicates Bread topped with Sesame
 + indicates minor ingredients to follow
 C-p indicates cucumber, Pickles
