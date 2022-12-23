@@ -33,11 +33,14 @@ American Cheese, Sesame Bun, Ketchup, Pickles, Onions, Mustard
 Using the standard, the following string would result
 
 
-B/ Br-S + C-p Ch-a ++ On Ke Mu
+```` B/ Br-S + C-p Ch-a ++ On Ke Mu````
 
-B/ - indicates Beef as a main ingredient
+
+
+````B/ - indicates Beef as a main ingredient
 Br-S indicates Bread topped with Sesame
 + indicates minor ingredients to follow
 C-p indicates cucumber, Pickles
 Ch-A indicates cheese, American
 On, Ke and Mu are top level groups and applied in very small quantities
+````
