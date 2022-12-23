@@ -32,6 +32,8 @@ Using the standard, the following string would result
 
 
 
+Created with love - twitter @6d6b68
+
 ````
 B/ - indicates Beef as a main ingredient
 Br-S indicates Bread topped with Sesame
