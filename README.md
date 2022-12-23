@@ -32,8 +32,6 @@ Using the standard, the following string would result
 
 
 
-Created with love - twitter @6d6b68
-
 ````
 B/ - indicates Beef as a main ingredient
 Br-S indicates Bread topped with Sesame
@@ -52,3 +50,9 @@ Ha= Indicates food is Halal
 B/ indicates Beef as a main ingredient
 ++s indicates salt was used in very small quantities
 ````
+
+
+
+
+Created with love - twitter @6d6b68
+
