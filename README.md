@@ -48,5 +48,5 @@ In the next example, a restaurant serves a beef kebab skewer. The beef is Halal.
 ````
 Ha= Indicates food is Halal
 B/ indicates Beef as a main ingredient
-++s indicates black pepper was used in very small quantities
+++s indicates salt was used in very small quantities
 ````
