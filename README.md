@@ -40,3 +40,13 @@ C-p indicates cucumber, Pickles
 Ch-A indicates cheese, American
 On, Ke and Mu are top level groups and applied in very small quantities
 ````
+
+In the next example, a restaurant serves a beef kebab skewer. The beef is Halal. The following would apply
+''''
+Ha=B/++p
+''''
+''''
+Ha= Indicates food is Halal
+B/ indicates Beef as a main ingredient
+++p indicates black pepper was used in very small quantities
+''''
