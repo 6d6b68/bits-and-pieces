@@ -54,5 +54,5 @@ B/ indicates Beef as a main ingredient
 
 
 
-Created with love - twitter @6d6b68
+Created with love - twitter [@6d6b68](https://twitter.com/6d6b68)
 
